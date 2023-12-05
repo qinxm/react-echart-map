@@ -1,0 +1,14 @@
+.sf-lineage-graph {
+    width:100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.sf-lineage-graph .sf-graph {
+    /* min-width: 1920px;
+    min-height: 1080px;   */
+}
+
+/* .sf-lineage-graph .sf-graph .x6-graph-svg-viewport {
+    transform: none !important;
+} */

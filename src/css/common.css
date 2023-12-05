@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'YouSheBiaoTiHei';
+    src: url("./font/YouSheBiaoTiHei.ttf");
+  }
+  
+  .font-num {
+    font-family: 'YouSheBiaoTiHei' ;
+  }
+  
+
+.sf-bg-white{
+    background: #fff;
+}
+
+.title-ul {
+    height: 30px;
+    line-height: 30px;
+    color: #000000
+}
+
+a:hover, a:focus {
+    text-decoration: none !important;
+}
+
+/** 菜单箭头 */
+.widget-window {
+    margin-top: 5px;
+}
+
+.menu-row .menu-row-header:hover {
+    color: #000 !important;
+}
+
+.menu-row .menu-row-children label:hover {
+    color: #000000 !important;
+}
+.menu-row-header {
+    color: #1A1A1A;
+}
+
+.entity-baseInfo .no-data {
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-family: Microsoft YaHei, Microsoft YaHei-Regular;
+    color: rgb(193, 193, 193);
+    padding: 20px;
+    transform: none;
+}
+
+.menu .frame-body-left-nav-item .click .active{
+    background:#1B4EB0;
+}
+
+.font-size16{
+    font-size: 16px;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.sf-footer .sf-button{
+    margin-right: 16px;
+}
+.sf-footer .sf-button:last-child{
+    margin-right: 0;
+}
+
+
+.sf-modification {
+    /* width: 200px; */
+    position: fixed;
+    top: 60px;
+    z-index: 100;
+    right: 110px;
+    padding: 10px;
+    display: flex;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,.06), 0 4px 4px rgba(0,0,0,.12);
+}
+
+
+.sf-modification div {
+    /* width: 48%; */
+    line-height: 30px;
+    background: #44a9fc;
+    padding: 0 10px;
+    color: #fff;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.sf-modification div:last-child{
+    margin: 0;
+}
+
+.ant-modal-footer .ant-btn-primary{
+    background: #3889CD;
+}
+
+.sf-padding-width{
+    width: calc(100% - 32px);
+    margin-left: 16px;
+}
+#root {
+    height: 100%;
+    font-size: 16px;
+    font-family: Microsoft YaHei, Microsoft YaHei-Regular;
+    overflow: auto;
+    background-color: #001324;
+}
+body {
+   
+}

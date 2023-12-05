@@ -1,0 +1,29 @@
+.sf-tab-button {
+    height:30px;
+    width: fit-content;
+}
+
+.sf-tab-button .sf-tab-button-item {
+    cursor: pointer;
+    padding: 3px 15px;
+    border: 1px solid #C9D1DA;
+    float: left;
+}
+
+.sf-tab-button .sf-tab-button-left {
+    border-radius: 4px 0px 0px 4px;
+}
+
+.sf-tab-button .sf-tab-button-right {
+    border-radius: 0px 4px 4px 0px;
+}
+
+.sf-tab-button .active {
+    border: 1px solid #3774FA;
+    color: #3674FA;
+}
+.sf-tab-button.sf-flex-column .sf-tab-button-left,
+.sf-tab-button.sf-flex-column .sf-tab-button-right {
+    border-radius: 0;
+}
+

@@ -1,0 +1,27 @@
+.event {
+    position: absolute;
+    background: #fff;
+    border: 1px solid #cfcfcf;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.06), 0 4px 4px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.06), 0 4px 4px rgba(0, 0, 0, 0.12);
+    width: 100px;
+    height: auto;
+    display:none;
+}
+
+.event .event-item {
+    padding: 5px;
+    cursor: pointer;
+    line-height: 20px;
+    border-bottom: 1px solid #cfcfcf;
+}
+
+.event .event-item:active, .event .event-item:focus, .event .event-item:hover{
+   
+    background-color: #f2faff;
+}
+
+.event .event-item .event-span {
+    color: #1675e0;
+}
+

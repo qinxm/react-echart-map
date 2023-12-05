@@ -1,0 +1,115 @@
+.con-investmentlist {
+  background: url(../../../img/dashboard/rightBg@2x.png) no-repeat top left;
+  background-size: 100% 100%;
+  color: #fff;
+  width: 345px;
+  height: 50px;
+  position: absolute;
+  right: 24px;
+  padding-top: 8px;
+  letter-spacing: 2px;
+  max-height: 810px;
+
+  .investmentlist-title {
+    background: url(../../../img/dashboard/titleBg@2x.png) no-repeat top left;
+    background-size: 100% 48px;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-style: italic;
+
+  }
+  .con-search-select{
+    padding: 10px;
+    line-height: 1.5;
+
+  }
+  .mgr1 {
+    margin-right: 10px;
+  }
+  .select-bg {
+    color: #fff;
+    display: inline-block;
+    
+    .ant-select {
+      font-size: 16px;
+    }
+    .ant-select-selector {
+      background: url(../../../img/dashboard/right_button_bg.png) no-repeat top left;
+      background-size: 100% 100%;
+      border: none;
+      height: auto;
+      .ant-select-selection-placeholder,.ant-select-selection-item {
+        padding: 5px 18px 5px 5px;
+      }
+    }
+    .ant-select-arrow {
+      color: #fff;
+    }
+  }
+}
+
+.investmentlist-datalist {
+  height: 800px;
+  overflow: auto;
+  .ant-table-thead > tr > th, .ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+    padding: 5px 1.6px;
+  }
+  .ant-table {
+    background-color:transparent;
+    color: #fff;
+  }
+  .ant-table-thead  {
+    
+    background: url(../../../img/dashboard/right_item_bg2.png) no-repeat center bottom;
+    background-size: cover;
+  }
+  .ant-table-thead .ant-table-cell {
+    background-color: transparent;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+  }
+  .ant-table-tbody > tr {
+    &:nth-child(odd) {
+      background: url(../../../img/dashboard/right_item_bg1.png) no-repeat center bottom;
+      background-size: cover;
+    }
+    &:nth-child(even) {
+      background: url(../../../img/dashboard/right_item_bg2.png) no-repeat center bottom;
+      background-size: cover;
+    }
+   
+  }
+  .ant-table-tbody > tr.ant-table-row:hover > td, .ant-table-tbody > tr > td.ant-table-cell-row-hover {
+    background:none;
+    opacity: 1;
+  }
+  .ant-table-tbody > tr > td {
+    border-bottom: none;
+    color: #fff;
+    line-height: 2.5;
+    font-size: 14px;
+    opacity: .5;
+  }
+}
+.getMoreData {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: .5;
+  padding: 10px;
+}
+.c-white {
+  color: #fff;
+  letter-spacing: 3px;
+  font-size: 14px;
+  
+}
+.fz12 {
+  font-size:12px;
+}
+
+.my-thing {
+  height: 100px;
+  color: #Fff;
+}

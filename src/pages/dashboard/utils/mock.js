@@ -1,0 +1,126 @@
+export const selfAreaData2 = [
+  {
+    FMZL_COUNT: 12221,
+    SYXXZL_COUNT: 222220,
+    WGSJZY_COUNT: 333330,
+    discode: "110000",
+    disname: "北京",
+  },
+  {
+    FMZL_COUNT: 33330,
+    SYXXZL_COUNT: 333330,
+    WGSJZY_COUNT: 330,
+    discode: "410000",
+    disname: "河南",
+  },
+  {
+    FMZL_COUNT: 111,
+    SYXXZL_COUNT: 222220,
+    WGSJZY_COUNT: 333330,
+    discode: "650000",
+    disname: "新疆",
+  },
+  {
+    FMZL_COUNT: 111,
+    SYXXZL_COUNT: 222220,
+    WGSJZY_COUNT: 333330,
+    discode: "640000",
+    disname: "宁夏",
+  },
+  {
+    FMZL_COUNT: 111,
+    SYXXZL_COUNT: 222220,
+    WGSJZY_COUNT: 333330,
+    discode: "610000",
+    disname: "陕西",
+  },
+  {
+    FMZL_COUNT: 111,
+    SYXXZL_COUNT: 222220,
+    WGSJZY_COUNT: 333330,
+    discode: "530000",
+    disname: "云南",
+  },
+];
+// mock数据 投资布局
+export const selfAreaData3 = [
+ 
+{
+    amount: "53200000",
+    discode: "110000",
+    disname: "北京",
+    invest_discode: "650000",
+    invest_disname: "新疆",
+    invested_discode: "120000",
+    invested_disname:"天津",
+  },
+  {
+    amount: "53200000",
+    discode: "110000",
+    disname: "北京",
+    invest_discode: "650000",
+    invest_disname: "新疆",
+    invested_discode: "410000",
+    invested_disname:"河南",
+  },
+  {
+    amount: "53200000",
+    discode: "110000",
+    disname: "北京",
+    invest_discode: "650000",
+    invest_disname: "新疆",
+    invested_discode: "530000",
+    invested_disname:"云南",
+  },
+];
+   // mock数据 XXX地图数据
+export const selfAreaData1 = [
+    {
+      ENT_COUNT: 11,
+      SYENT_COUNT: 22,
+      ZYENT_COUNT: 33,
+      XYENT_COUNT: 44,
+      discode: "110000",
+      disname: "北京",
+    },
+    {
+      ENT_COUNT: 110,
+      SYENT_COUNT: 220,
+      ZYENT_COUNT: 330,
+      XYENT_COUNT: 44,
+      discode: "410000",
+      disname: "河南",
+    },
+    {
+      ENT_COUNT: 111,
+      SYENT_COUNT: 222220,
+      ZYENT_COUNT: 333330,
+      XYENT_COUNT: 44,
+      discode: "650000",
+      disname: "新疆",
+    },
+    {
+      ENT_COUNT: 111,
+      SYENT_COUNT: 222220,
+      ZYENT_COUNT: 333330,
+      XYENT_COUNT: 44,
+      discode: "640000",
+      disname: "宁夏",
+    },
+    {
+      ENT_COUNT: 111,
+      SYENT_COUNT: 222220,
+      ZYENT_COUNT: 333330,
+      XYENT_COUNT: 44,
+      discode: "610000",
+      disname: "陕西",
+    },
+    {
+      ENT_COUNT: 111,
+      SYENT_COUNT: 222220,
+      ZYENT_COUNT: 333330,
+      XYENT_COUNT: 44,
+      discode: "530000",
+      disname: "云南",
+    },
+  ];

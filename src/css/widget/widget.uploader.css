@@ -1,0 +1,36 @@
+.sf-uploader {
+    height: 100%;
+    /* width: 100%; */
+}
+
+.sf-uploader .sf-upload-input {
+    float: left;
+    border: 1px solid #cccccc;
+    height: 32px;
+    border-radius: 1px;
+}
+
+.sf-uploader .sf-upload-input:focus{
+    outline: none;
+    border: 1px solid #cccccc;
+}
+
+.sf-uploader span {
+    float: left;
+}
+
+.sf-uploader .sf-upload-button  {
+    float: left;
+    padding-left: 10px;
+}
+.sf-uploader .sf-upload-button .ant-btn-loading-icon{
+    margin-top: 4px;
+}
+
+.sf-uploader button {
+    margin-top: 0px !important;
+}
+
+.sf-uploader .ant-upload-list {
+    display: none;
+}

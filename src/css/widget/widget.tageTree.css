@@ -1,0 +1,20 @@
+.ant-cascader-menu{
+    width: 200px;
+	height: 480px;
+    flex-grow: revert;
+}
+
+.ant-cascader{
+    display: none;
+}
+
+.ant-select-dropdown{
+    box-shadow: none;
+    position: revert;
+    opacity: 1!important;
+}
+
+.sf-tag-tree ~ div{
+    position: revert!important;
+	width: auto!important;
+}

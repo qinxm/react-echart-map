@@ -1,0 +1,29 @@
+.data-collection {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  .bg-map-img {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    // background: url(../../../img/dashboard/map_2.png) no-repeat center center;
+    background-size: contain;
+  }
+  .echarts-for-react  {
+    z-index: 3;
+  }
+}
+.map-bg {
+  position: absolute;
+}
+
+.investment-screen {
+  background-color: rgb(0, 0, 42);
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

@@ -1,0 +1,23 @@
+<svg width="108" height="100" viewBox="0 0 108 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="45.5" cy="90.6934" rx="44.5" ry="9" fill="#F6F6F8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.7169 49.8931H67.3831L81.6 66.9931H9.5L23.7169 49.8931Z" fill="#AEB8C3"/>
+<rect x="20.55" y="21.1934" width="50" height="54" rx="2" fill="#F5F5F7"/>
+<rect x="27.5" y="27.1934" width="36" height="20" rx="2" fill="#DEDEE7"/>
+<rect x="27.5" y="53.1309" width="36" height="3" rx="1.5" fill="#DEDEE7"/>
+<rect x="27.5" y="61.4072" width="36" height="3" rx="1.5" fill="#DEDEE7"/>
+<mask id="mask0_341_3616" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="67" width="73" height="27">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60.386 69.0113V70.1933C60.387 72.4023 58.597 74.1933 56.389 74.1933H34.5L34.3 74.1883C32.184 74.0853 30.5 72.3363 30.5 70.1933V69.0103C30.5 67.9063 29.605 67.0103 28.5 67.0103L9.5 67.0113V89.0113C9.5 91.2203 11.291 93.0113 13.5 93.0113H77.6C79.809 93.0113 81.6 91.2203 81.6 89.0113V67.0113L62.387 67.0103C61.282 67.0103 60.386 67.9073 60.386 69.0113Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_341_3616)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 98.0112H86.6V62.0112H4.5V98.0112Z" fill="#DCE0E8"/>
+</g>
+<mask id="mask1_341_3616" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="77" y="1" width="30" height="24">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77 13C77 15.351 77.846 17.544 79.305 19.395C79.517 19.663 79.59 20.014 79.482 20.338L78.143 24.326L82.489 22.717C82.765 22.615 83.069 22.645 83.326 22.791C85.775 24.182 88.768 25 92 25C100.284 25 107 19.628 107 13C107 6.372 100.284 1 92 1C83.716 1 77 6.372 77 13Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_341_3616)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M72 30H112V-4H72V30Z" fill="#DCE0E8"/>
+</g>
+<rect x="90.1969" y="10.1392" width="4" height="4" fill="white"/>
+<circle cx="97.8208" cy="12.1392" r="2" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M86.1792 10.1392L88.1792 14.1392H84.1792L86.1792 10.1392Z" fill="white"/>
+</svg>

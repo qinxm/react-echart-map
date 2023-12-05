@@ -1,0 +1,36 @@
+.sf-timeline{
+    padding: 40px 20px 0;
+}
+.sf-timeline .ant-timeline-item-last{
+    padding-bottom: 0;
+}
+.sf-timeline .ant-timeline-item-label{
+    width: 100px!important;
+}
+.sf-timeline .ant-timeline-item-tail,
+.sf-timeline .ant-timeline-item-head{
+    left: 110px!important;
+}
+.sf-timeline .ant-timeline-item-content{
+    width: calc(100% - 130px)!important;
+    left: 110px!important;
+}
+.sf-timeline .time-line-content{
+    display: flex;
+}
+.sf-timeline .time-line-title{
+    width: 10%;
+    padding-right: 16px;
+}
+.sf-timeline .time-line-type{
+    width: 15%;
+    padding-right: 16px;
+}
+.sf-timeline .time-line-item{
+    width: 45%;
+    color: #3674FA;
+    padding-right: 16px;
+}
+.sf-timeline .time-line-description{
+    width: 30%;
+}

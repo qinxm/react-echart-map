@@ -1,0 +1,22 @@
+.sf-widget-title {
+    width: auto;
+    height: auto;
+}
+
+.sf-widget-title-1 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    color: #1D2129;
+}
+
+.sf-widget-title-2 {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #1D2129;
+}
+
+.sf-widget-title-3 {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #1D2129;
+}

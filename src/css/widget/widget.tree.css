@@ -1,0 +1,53 @@
+.sf-tree{
+    position: relative;
+    overflow-x: hidden;
+}
+.sf-tree .ant-tree-treenode  {
+    padding: 7px 0px;
+    width: 100%;
+    color: #666666;
+}
+.sf-tree .ant-tree-treenode:hover {
+    /* background: linear-gradient(270deg,#eef0f5 0%, #f4f6f8 100%); */
+    background: rgba(101, 149, 235, .1);
+}
+.ant-tree .ant-tree-node-content-wrapper.ant-tree-node-selected{
+    background: transparent;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: LEFT;
+}
+.sf-tree .ant-tree .ant-tree-node-content-wrapper{
+    padding: 0;
+}
+.sf-tree .ant-tree .ant-tree-node-content-wrapper .ant-tree-iconEle  {
+    margin-right: 8px;
+}
+.sf-tree .ant-tree .ant-tree-node-content-wrapper .ant-tree-iconEle img {
+    width: 13px;
+    margin-top: -3px;
+}
+.sf-tree .ant-tree .ant-tree-node-content-wrapper:hover{
+    background: transparent;
+}
+.ant-tree-treenode-selected {
+    /* background:  linear-gradient(270deg,#dbe8f8 0%, #ebf2fa) !important; */
+    background: rgba(56, 137, 205, .2);
+    color: #3889CD !important;
+
+}
+.divClass2 {
+    background: #e6f7ff
+}
+
+.sf-tree .ant-tree-node-content-wrapper{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.sf-tree .swg-Tree-Input{
+    width: 86%;
+    margin: 16px auto 8px;
+}
+

@@ -1,0 +1,27 @@
+
+.sf-group-picker .ant-picker-panel-container{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.sf-group-picker .ant-picker-footer{
+    min-width: revert;
+    border-right: 1px solid #f0f0f0;
+}
+.sf-group-picker .sf-active-date{
+    color: #fff;
+    background: #1890FF;
+}
+.sf-group-picker .ant-picker-footer-extra{
+    padding: 0;
+    width: 38px;
+    cursor: pointer;
+}
+.sf-group-picker .ant-picker-footer-extra span{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.sf-group-picker .ant-picker-range-arrow{
+    background: linear-gradient(135deg, transparent 48%, #fff 40%);
+}

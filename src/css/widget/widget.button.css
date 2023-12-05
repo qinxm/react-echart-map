@@ -1,0 +1,42 @@
+.sf-button .ant-btn {
+    /* padding: 5px 8px; */
+    font-size: 0.875rem;
+    font-weight: 500;
+    border: 1px solid #C9D1DA;
+}
+
+.sf-button .ant-btn-primary {
+    height: 32px;
+    background: #3889CD;
+    color: #ffffff;
+    border-radius: 4px;
+    cursor:pointer;
+}
+
+.sf-button .ant-btn-primary:hover {
+    background: #3692fa;
+}
+
+.sf-button .ant-btn-general {
+    color: #1D2129;
+}
+
+.sf-button .ant-btn-general:hover {
+    border: 1px solid #3889CD;
+    color: #3889CD;
+}
+.sf-button .ant-btn img{
+    padding-right: 8px;
+}
+.sf-button .ant-btn-background-ghost
+{
+    
+}
+.sf-line-button .ant-btn-background-ghost{
+    border-color: #0096FF !important;
+    color: #0096FF !important;
+}
+
+.sf-button img {
+    height: 16px;
+}

@@ -1,0 +1,45 @@
+
+.sf-batch-result .sf-result {
+    float: left;
+}
+.sf-batch-result .ant-result {
+    padding: 0 8px;
+    float: right;
+}
+
+.sf-batch-result .sf-batch-result-progress {
+    padding: 16px 0px;
+    height: 60px;
+    float: left;
+    width: 100%;
+}
+
+.sf-batch-result .sf-batch-result-progress .sf-batch-result-description {
+    float: left;
+}
+
+.sf-batch-result .sf-batch-result-progress .sf-batch-result-num {
+    color: #499F9C;
+    font-size: 16px;
+}
+
+.sf-batch-result .sf-batch-result-progress .sf-progress-item {
+    float: left;
+    padding:0 20px;
+    width: calc(100% - 200px);
+}
+
+.sf-batch-result .ant-result .ant-result-icon {
+    margin-bottom:0px;
+    text-align: left;
+}
+
+.sf-batch-result .ant-result .ant-result-icon > .anticon {
+    font-size: 16px;
+}
+
+.sf-batch-result .swd-tips .ant-btn {
+    border: none;
+    color: #499F9C;
+}
+

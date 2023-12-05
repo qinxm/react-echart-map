@@ -1,0 +1,97 @@
+
+
+html {transition: font-size 0.2s ease-out;font-family: Manrope; -webkit-transition: font-size 0.2s ease-out; font-size: 16px; line-height: 16px;}
+
+.vis-m,.vis-m-b {display: none !important;} 
+.vis-pc {display: inline-block !important;}
+.vis-pc-b {display: block !important;}
+.max-width {max-width: 1440px; margin: 0 auto; position: relative;}
+@media only screen and (min-width: 2400px) { html { font-size: 20px !important; }}
+@media only screen and (min-width: 2200px) { html { font-size: 19px !important; }}
+@media only screen and (min-width: 2000px) { html { font-size: 18px !important; }}
+@media only screen and (min-width: 1920px) { html { font-size: 17px !important; }}
+@media only screen and (max-width: 1920px) { html { font-size: 16px !important; }}
+// @media only screen and (max-width: 1900px) { html { font-size: 19px !important; }}
+@media only screen and (max-width: 1800px) { html { font-size: 15px !important; }}
+// @media only screen and (max-width: 1700px) { html { font-size: 17px !important; }}
+@media only screen and (max-width: 1600px) { html { font-size: 14px !important; }}
+// @media only screen and (max-width: 1500px) { html { font-size: 15px !important; }}
+@media only screen and (max-width: 1440px) { html { font-size: 12px !important; }}
+@media only screen and (max-width: 1100px) { html { font-size: 12px !important; }}
+@media only screen and (max-width: 800px) { html { font-size: 11px !important; }}
+@media only screen and (max-width: 700px) { html { font-size: 10px !important; }}
+@media only screen and (max-width: 768px) {
+  .vis-m {display: inline-block !important;} 
+  .vis-m-b {display: block !important;} 
+  .vis-pc,.vis-pc-b  {display: none !important;}
+
+  .m-100{width: 100% !important;}
+
+  .navbar-expand-sm .navbar-toggler {
+    display: none;
+  }
+}
+@media only screen and (min-width: 769px) {
+  .navbar-expand-md .navbar-collapse {
+      display: flex!important;
+      flex-basis: auto;
+  }
+}
+
+@media only screen and (min-width: 2100px) { 
+  .dashboard-main .header {
+    zoom: 1.05;
+  }
+  .con-statistics{
+    zoom: 1.05;
+  }
+}
+@media only screen and (max-width: 1350px) { 
+  .dashboard-main .header {
+    zoom: 0.95;
+  }
+}
+@media only screen and (max-width: 1250px) { 
+  .dashboard-main .header{
+    zoom: 0.85;
+  }
+}
+@media only screen and (max-width: 1150px) { 
+  .dashboard-main .header {
+    zoom: 0.75;
+  }
+  .right-content {
+    // zoom: 0.8;
+  }
+
+}
+@media only screen and (max-width: 1000px) { 
+  .dashboard-main .header {
+    zoom: 0.6;
+  }
+  .main-content  {
+    .left-menu{
+      // zoom: 0.9
+      .con-btn-list {
+        zoom: 0.9;
+      }
+    }
+    .con-industrychain-list .btn-list .btn-industry {
+      width: 9rem;
+    }
+  }
+
+}
+
+@media only screen and (max-width: 1150px) { 
+  .con-statistics{
+    zoom: 0.9;
+  }
+
+}
+@media only screen and (max-width: 1000px) { 
+  .con-statistics{
+    zoom: 0.8;
+  }
+
+}

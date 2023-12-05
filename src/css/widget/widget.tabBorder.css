@@ -1,0 +1,15 @@
+.sf-span {
+    padding: 4px 16px;
+    font-family: PingFang SC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #666666;
+    display: inline-block;
+}
+.sf-border{
+    border: 1px solid #3674fa;
+    border-radius: 4px;
+}
+.sf-tab-Independence .sf-Independence {
+    border: 1px solid #C9D1DA;
+    border-radius: 4px;
+}

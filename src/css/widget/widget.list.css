@@ -1,0 +1,27 @@
+.sf-list {
+    width: 100%;
+    height: auto;
+}
+
+.sf-list .sf-list-input {
+    
+}
+
+.sf-list .sf-list-title {
+    padding: 7px 24px;
+    font-size: 14px;
+}
+
+.sf-list .sf-list-body {
+    width: 100%;
+    font-size: 14px;
+}
+
+.sf-list .sf-list-body .smooth-dnd-container .smooth-dnd-draggable-wrapper {
+    padding: 7px 0px 7px 48px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
+
